@@ -90,7 +90,7 @@ namespace claseMath.Test
         public void Dividir_Excepcion_1()
         {
             int dividendo = 8;
-            int divisor = 0;
+            int divisor = 1;
 
             //Assert.That(()=> _math.Divide(dividendo,divisor), Throws.InvalidOperationException);
             Assert.That(() => _math.Divide(dividendo, divisor), Throws.Exception);

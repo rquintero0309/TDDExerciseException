@@ -18,7 +18,7 @@ namespace claseMath
 
         public int Divide(int a, int b)
         {
-            //if (b == 0) throw new InvalidOperationException() ;
+            if (b == 0) throw new InvalidOperationException() ;
             return a / b;
         }
 

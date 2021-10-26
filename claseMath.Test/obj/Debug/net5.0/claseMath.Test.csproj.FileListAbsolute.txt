@@ -300,3 +300,4 @@ C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath.Test\ob
 C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath.Test\obj\Debug\net5.0\ref\claseMath.Test.dll
 C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath.Test\obj\Debug\net5.0\claseMath.Test.pdb
 C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath.Test\obj\Debug\net5.0\claseMath.Test.genruntimeconfig.cache
+C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath.Test\obj\Debug\net5.0\claseMath.Test.csproj.CopyComplete

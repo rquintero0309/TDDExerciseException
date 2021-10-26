@@ -32,3 +32,4 @@ C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath\obj\Deb
 C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath\obj\Debug\net5.0\claseMath.dll
 C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath\obj\Debug\net5.0\ref\claseMath.dll
 C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath\obj\Debug\net5.0\claseMath.pdb
+C:\Users\rquintero\Documents\GitHub\Ramon\TDDExerciseException\claseMath\obj\Debug\net5.0\claseMath.csproj.AssemblyReference.cache
